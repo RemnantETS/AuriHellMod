@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StructProperty">
+  <TheStats>
+    <TextProperty>
+      <ValueOffset>78</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value>It's your favorite Toxin Tablet.</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value />
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value>D394B9DC4BEC74D2F2F9C5BFB46ECBB0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>0</Index>
+      <PropertyName>1_2_BB7A063D4581DB46A545B69919C92807</PropertyName>
+      <PropertyType>TextProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </TextProperty>
+    <TextProperty>
+      <ValueOffset>186</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value>- 🤣</Value>
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value />
+        </DataObject>
+        <DataObject xsi:type="DataObjectOfString">
+          <Value>309137804D4012B53FD7C8995971BA37</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>1</Index>
+      <PropertyName>2_4_0D8F38BF43C249A8957A62A6AF008A3B</PropertyName>
+      <PropertyType>TextProperty</PropertyType>
+      <NameIndex>0</NameIndex>
+      <Flag>0</Flag>
+    </TextProperty>
+  </TheStats>
+  <TheSubs />
+  <Index>0</Index>
+  <NameString>1</NameString>
+  <SubTypeString>1</SubTypeString>
+  <isTerminated>true</isTerminated>
+  <Trail>false</Trail>
+</CoreItem>
