@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StructProperty">
+  <TheStats>
+    <IntProperty>
+      <ValueOffset>3121</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfInt32">
+          <Value>0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>0</Index>
+      <PropertyName>ID</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>IntProperty</PropertyType>
+      <Flag>0</Flag>
+    </IntProperty>
+    <ObjectProperty>
+      <ValueOffset>3150</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="LinkDataObject">
+          <ExportString>BP_TraitTome_Teamwork_C</ExportString>
+        </DataObject>
+      </ValueArray>
+      <Index>1</Index>
+      <PropertyName>ItemBP</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>ObjectProperty</PropertyType>
+      <Flag>0</Flag>
+    </ObjectProperty>
+    <BoolProperty>
+      <ValueOffset>3179</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfByte">
+          <Value>0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>2</Index>
+      <PropertyName>New</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>BoolProperty</PropertyType>
+      <Flag>0</Flag>
+    </BoolProperty>
+    <BoolProperty>
+      <ValueOffset>3205</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfByte">
+          <Value>0</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>3</Index>
+      <PropertyName>Hidden</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>BoolProperty</PropertyType>
+      <Flag>0</Flag>
+    </BoolProperty>
+    <IntProperty>
+      <ValueOffset>3231</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="DataObjectOfInt32">
+          <Value>-1</Value>
+        </DataObject>
+      </ValueArray>
+      <Index>4</Index>
+      <PropertyName>EquipmentSlotIndex</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>IntProperty</PropertyType>
+      <Flag>0</Flag>
+    </IntProperty>
+    <ObjectProperty>
+      <ValueOffset>3260</ValueOffset>
+      <ValueArray>
+        <DataObject xsi:type="LinkDataObject">
+          <ExportString>16</ExportString>
+        </DataObject>
+      </ValueArray>
+      <Index>5</Index>
+      <PropertyName>InstanceData</PropertyName>
+      <NameIndex>0</NameIndex>
+      <PropertyType>ObjectProperty</PropertyType>
+      <Flag>0</Flag>
+    </ObjectProperty>
+  </TheStats>
+  <TheSubs />
+  <Index>6</Index>
+  <NameString>InventoryItem</NameString>
+  <SubTypeString>InventoryItem</SubTypeString>
+  <isTerminated>true</isTerminated>
+  <Trail>false</Trail>
+</CoreItem>
