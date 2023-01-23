@@ -3,3 +3,6 @@
 *.txt
 !filelist.txt
 *.bak
+HellModPak.bat.lnk
+UnrealPak/HellModPak.bat
+UI/ui.pak
